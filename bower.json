@@ -1,0 +1,16 @@
+{
+  "name": "retable",
+  "version": "0.0.0",
+  "homepage": "https://github.com/young-utf/retable",
+  "authors": [
+    "young-utf <young.utf@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
